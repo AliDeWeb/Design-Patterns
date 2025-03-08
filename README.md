@@ -39,3 +39,4 @@ These principles ensure maintainability, scalability, and clean code.
 | **Memento**    | [📜 README](01_Memento/README.md)  |
 | **State**      | [📜 README](02_State/README.md)    |
 | **Iterator**   | [📜 README](03_Iterator/README.md) |
+| **Strategy**   | [📜 README](04_Strategy/README.md) |
