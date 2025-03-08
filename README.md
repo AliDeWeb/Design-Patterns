@@ -31,3 +31,11 @@ Apart from SOLID, other key design principles in OOP include:
 - **Law of Demeter (LoD)** – Objects should only interact with closely related objects to reduce coupling.
 
 These principles ensure maintainability, scalability, and clean code.
+
+## 📂 Patterns
+
+| Design Pattern | Documentation                      |
+| -------------- | ---------------------------------- |
+| **Memento**    | [📜 README](01_Memento/README.md)  |
+| **State**      | [📜 README](02_State/README.md)    |
+| **Iterator**   | [📜 README](03_Iterator/README.md) |
