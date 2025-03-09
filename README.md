@@ -62,13 +62,13 @@ These patterns focus on object creation mechanisms to increase flexibility and r
 
 ## 📂 Patterns
 
-| Design Pattern      | Documentation                             |
-| ------------------- | ----------------------------------------- |
-| **Memento**         | [📜 README](01_Memento/README.md)         |
-| **State**           | [📜 README](02_State/README.md)           |
-| **Iterator**        | [📜 README](03_Iterator/README.md)        |
-| **Strategy**        | [📜 README](04_Strategy/README.md)        |
-| **Template Method** | [📜 README](05_Template_Method/README.md) |
-| **Command**         | [📜 README](06_Command/README.md)         |
-| **Observer**        | [📜 README](07_Observer/README.md)        |
-| **Mediator**        | [📜 README](08_Mediator/README.md)        |
+| Design Pattern              | Documentation                                     |
+| --------------------------- | ------------------------------------------------- |
+| **Memento**                 | [📜 README](01_Memento/README.md)                 |
+| **State**                   | [📜 README](02_State/README.md)                   |
+| **Iterator**                | [📜 README](03_Iterator/README.md)                |
+| **Strategy**                | [📜 README](04_Strategy/README.md)                |
+| **Template Method**         | [📜 README](05_Template_Method/README.md)         |
+| **Command**                 | [📜 README](06_Command/README.md)                 |
+| **Observer**                | [📜 README](07_Observer/README.md)                |
+| **Chain Of Responsibility** | [📜 README](09_Chain_Of_Responsibility/README.md) |
