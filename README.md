@@ -34,9 +34,10 @@ These principles ensure maintainability, scalability, and clean code.
 
 ## 📂 Patterns
 
-| Design Pattern | Documentation                      |
-| -------------- | ---------------------------------- |
-| **Memento**    | [📜 README](01_Memento/README.md)  |
-| **State**      | [📜 README](02_State/README.md)    |
-| **Iterator**   | [📜 README](03_Iterator/README.md) |
-| **Strategy**   | [📜 README](04_Strategy/README.md) |
+| Design Pattern      | Documentation                             |
+| ------------------- | ----------------------------------------- |
+| **Memento**         | [📜 README](01_Memento/README.md)         |
+| **State**           | [📜 README](02_State/README.md)           |
+| **Iterator**        | [📜 README](03_Iterator/README.md)        |
+| **Strategy**        | [📜 README](04_Strategy/README.md)        |
+| **Template Method** | [📜 README](05_Template_Method/README.md) |
