@@ -29,3 +29,7 @@ The **State Pattern** is a behavioral design pattern that allows an object to ch
 ## 🚀 Conclusion
 
 The **State Pattern** is ideal when an object’s behavior depends on its internal state. By **separating state-specific behavior**, it makes the code cleaner, more modular, and easier to extend. 🌟
+
+---
+
+🔗 **Example Code:** [See Implementation](./app.ts)

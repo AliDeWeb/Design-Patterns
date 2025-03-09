@@ -33,3 +33,7 @@ The **Iterator Pattern** is a behavioral design pattern that allows sequential a
 ## 🚀 Conclusion
 
 The **Iterator Pattern** is great for iterating through collections without worrying about their internal structure. Whether you're working with arrays, objects, or custom data types, the iterator pattern ensures a clean and consistent approach to accessing data. 🌟
+
+---
+
+🔗 **Example Code:** [See Implementation](./app.ts)

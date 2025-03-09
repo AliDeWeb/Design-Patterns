@@ -30,3 +30,7 @@ A **payment system** where users can select different payment methods (Credit Ca
 
 - **State Pattern** 🏛️ (focuses on object states rather than interchangeable algorithms)
 - **Decorator Pattern** 🎨 (adds behavior dynamically without modifying existing code)
+
+---
+
+🔗 **Example Code:** [See Implementation](./app.ts)

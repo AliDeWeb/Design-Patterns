@@ -24,3 +24,7 @@ _"Don't call us, we'll call you!"_ 🎭
 - **Game AI**: Different enemy behaviors with a shared decision-making process. 🎮
 - **Data Parsers**: A CSV and JSON parser with common parsing logic. 📊
 - **Coffee Making**: Different coffee types but the same preparation process. ☕
+
+---
+
+🔗 **Example Code:** [See Implementation](./app.ts)

@@ -29,3 +29,7 @@ The **Memento Pattern** is a behavioral design pattern that allows saving and re
 ## 🚀 Conclusion
 
 The **Memento Pattern** is perfect for applications where you need to **save and restore object states** without exposing their internals. It's widely used in **editor software, games, and state management systems**. 🌟
+
+---
+
+🔗 **Example Code:** [See Implementation](./app.ts)
