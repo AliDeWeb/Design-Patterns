@@ -26,4 +26,4 @@ This pattern promotes **loose coupling** by centralizing communication logic in 
 
 ---
 
-🔗 **Example Code:** [See Implementation](./mediator.ts)
+🔗 **Example Code:** [See Implementation](./app.ts)
