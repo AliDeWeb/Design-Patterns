@@ -75,13 +75,13 @@
 
 ## 📂 الگوها و مستندات آن‌ها  
 
-| الگوی طراحی                 | مستندات                                       |  
-| --------------------------- | --------------------------------------------- |  
-| **Memento (حافظه‌نگار)**    | [📜 README](01_Memento/README.md)             |  
-| **State (وضعیت)**           | [📜 README](02_State/README.md)               |  
-| **Iterator (گردشگر)**       | [📜 README](03_Iterator/README.md)            |  
-| **Strategy (استراتژی)**      | [📜 README](04_Strategy/README.md)            |  
-| **Template Method (روش قالبی)** | [📜 README](05_Template_Method/README.md) |  
-| **Command (فرمان)**         | [📜 README](06_Command/README.md)             |  
-| **Observer (ناظر)**         | [📜 README](07_Observer/README.md)            |  
+| الگوی طراحی                                    | مستندات                                           |  
+|------------------------------------------------|---------------------------------------------------|  
+| **Memento (حافظه‌نگار)**                       | [📜 README](01_Memento/README.md)                 |  
+| **State (وضعیت)**                              | [📜 README](02_State/README.md)                   |  
+| **Iterator (گردشگر)**                          | [📜 README](03_Iterator/README.md)                |  
+| **Strategy (استراتژی)**                        | [📜 README](04_Strategy/README.md)                |  
+| **Template Method (روش قالبی)**                | [📜 README](05_Template_Method/README.md)         |  
+| **Command (فرمان)**                            | [📜 README](06_Command/README.md)                 |  
+| **Observer (ناظر)**                            | [📜 README](07_Observer/README.md)                |  
 | **Chain Of Responsibility (زنجیره‌ی مسئولیت)** | [📜 README](09_Chain_Of_Responsibility/README.md) |
