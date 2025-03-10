@@ -9,12 +9,12 @@ class Config {
     private constructor() {
     }
 
-    set(key: string, value: any) {
+    set(key: string, value: string) {
         this.configs.push({key, value});
     }
 
     get(key: string) {
-        for (let object of this.configs) {
+        for (const object of this.configs) {
             if (object.key === key) return object.value
         }
     }
