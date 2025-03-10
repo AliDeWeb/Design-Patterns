@@ -79,5 +79,8 @@ These patterns focus on object creation mechanisms to increase flexibility and r
 | **Template Method**         | [📜 README](05_Template_Method/README.md)         |
 | **Command**                 | [📜 README](06_Command/README.md)                 |
 | **Observer**                | [📜 README](07_Observer/README.md)                |
+| **Mediator**                | [📜 README](08_Mediator/README.md)                |
 | **Chain Of Responsibility** | [📜 README](09_Chain_Of_Responsibility/README.md) |
 | **Visitor**                 | [📜 README](10_Visitor/README.md)                 |
+| **Prototype**               | [📜 README](11_Prototype/README.md)               |
+| **Singleton**               | [📜 README](12_Singleton/README.md)               |
