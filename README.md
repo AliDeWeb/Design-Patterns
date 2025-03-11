@@ -91,3 +91,4 @@ These patterns focus on object creation mechanisms to increase flexibility and r
 | **Adaptor**                 | [📜 README](17_Adaptor/README.md)                 |
 | **Decorator**               | [📜 README](18_Decorator/README.md)               |
 | **Facade**                  | [📜 README](19_Facade/README.md)                  |
+| **Fly Weight**              | [📜 README](20_Fly_Weight/README.md)              |
