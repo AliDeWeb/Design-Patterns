@@ -41,8 +41,8 @@ class ProxyImage implements Image {
         image.displayImage();
     }
 
-    let image1 = new ProxyImage("image1.jpg");
-    let image2 = new ProxyImage("image2.png");
+    const image1 = new ProxyImage("image1.jpg");
+    const image2 = new ProxyImage("image2.png");
 
     clientCode(image1);
     clientCode(image2);
