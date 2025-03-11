@@ -72,30 +72,30 @@
 
 ## 📂 الگوها
 
-| الگوی طراحی                                  | مستندات                                                                                          |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------|
-| **Memento (یادگار)**                         | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=01_Memento/README.md)                 |
-| **State (حالت)**                             | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=02_State/README.md)                   |
-| **Iterator (تکرارگر)**                       | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=03_Iterator/README.md)                |
-| **Strategy (راهبرد)**                        | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=04_Strategy/README.md)                |
-| **Template Method (متد قالب)**               | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=05_Template_Method/README.md)         |
-| **Command (فرمان)**                          | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=06_Command/README.md)                 |
-| **Observer (ناظر)**                          | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=07_Observer/README.md)                |
-| **Mediator (میانجی)**                        | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=08_Mediator/README.md)                |
-| **Chain Of Responsibility (زنجیره مسئولیت)** | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=09_Chain_Of_Responsibility/README.md) |
-| **Visitor (بازدیدکننده)**                    | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=10_Visitor/README.md)                 |
-| **Prototype (نمونه اولیه)**                  | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=11_Prototype/README.md)               |
-| **Singleton (تک‌نسخه)**                      | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=12_Singleton/README.md)               |
-| **Factory Method (متد کارخانه)**             | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=13_Factory_Method/README.md)          |
-| **Abstract Factory (کارخانه انتزاعی)**       | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=14_Abstract_Factory/README.md)        |
-| **Builder (سازنده)**                         | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=15_Builder/README.md)                 |
-| **Composite (ترکیبی)**                       | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=16_Composite/README.md)               |
-| **Adaptor (مبدل)**                           | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=17_Adaptor/README.md)                 |
-| **Decorator (تزئین‌کننده)**                  | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=18_Decorator/README.md)               |
-| **Facade (نما)**                             | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=19_Facade/README.md)                  |
-| **Fly Weight (مگس‌وزن)**                     | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=20_Fly_Weight/README.md)              |
-| **Bridge (پل)**                              | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=21_Bridge/README.md)                  |
-| **Proxy (نماینده)**                          | [📜 README](https://www.google.com/url?sa=E&source=gmail&q=22_Proxy/README.md)                   |
+| الگوی طراحی                                  | مستندات                                           |
+|----------------------------------------------|---------------------------------------------------|
+| **Memento (یادگار)**                         | [📜 README](01_Memento/README.md)                 |
+| **State (حالت)**                             | [📜 README](02_State/README.md)                   |
+| **Iterator (تکرارگر)**                       | [📜 README](03_Iterator/README.md)                |
+| **Strategy (راهبرد)**                        | [📜 README](04_Strategy/README.md)                |
+| **Template Method (متد قالب)**               | [📜 README](05_Template_Method/README.md)         |
+| **Command (فرمان)**                          | [📜 README](06_Command/README.md)                 |
+| **Observer (ناظر)**                          | [📜 README](07_Observer/README.md)                |
+| **Mediator (میانجی)**                        | [📜 README](08_Mediator/README.md)                |
+| **Chain Of Responsibility (زنجیره مسئولیت)** | [📜 README](09_Chain_Of_Responsibility/README.md) |
+| **Visitor (بازدیدکننده)**                    | [📜 README](10_Visitor/README.md)                 |
+| **Prototype (نمونه اولیه)**                  | [📜 README](11_Prototype/README.md)               |
+| **Singleton (تک‌نسخه)**                      | [📜 README](12_Singleton/README.md)               |
+| **Factory Method (متد کارخانه)**             | [📜 README](13_Factory_Method/README.md)          |
+| **Abstract Factory (کارخانه انتزاعی)**       | [📜 README](14_Abstract_Factory/README.md)        |
+| **Builder (سازنده)**                         | [📜 README](15_Builder/README.md)                 |
+| **Composite (ترکیبی)**                       | [📜 README](16_Composite/README.md)               |
+| **Adaptor (مبدل)**                           | [📜 README](17_Adaptor/README.md)                 |
+| **Decorator (تزئین‌کننده)**                  | [📜 README](18_Decorator/README.md)               |
+| **Facade (نما)**                             | [📜 README](19_Facade/README.md)                  |
+| **Fly Weight (مگس‌وزن)**                     | [📜 README](20_Fly_Weight/README.md)              |
+| **Bridge (پل)**                              | [📜 README](21_Bridge/README.md)                  |
+| **Proxy (نماینده)**                          | [📜 README](22_Proxy/README.md)                   |
 
 -----
 
