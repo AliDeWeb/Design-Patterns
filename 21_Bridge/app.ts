@@ -91,17 +91,17 @@ class WindowElement extends UIElement {
         uiElement.draw();
     }
 
-    let windowsOS = new WindowsOS();
-    let macOS = new MacOS();
-    let linuxOS = new LinuxOS();
+    const windowsOS = new WindowsOS();
+    const macOS = new MacOS();
+    const linuxOS = new LinuxOS();
 
-    let windowsButton = new ButtonElement(windowsOS, 10, 10, 50, 20, "Click me");
-    let macOSButton = new ButtonElement(macOS, 10, 10, 50, 20, "Click me");
-    let linuxButton = new ButtonElement(linuxOS, 10, 10, 50, 20, "Click me");
+    const windowsButton = new ButtonElement(windowsOS, 10, 10, 50, 20, "Click me");
+    const macOSButton = new ButtonElement(macOS, 10, 10, 50, 20, "Click me");
+    const linuxButton = new ButtonElement(linuxOS, 10, 10, 50, 20, "Click me");
 
-    let windowsWindow = new WindowElement(windowsOS, 50, 50, 200, 150, "My Window");
-    let macOSWindow = new WindowElement(macOS, 50, 50, 200, 150, "My Window");
-    let linuxWindow = new WindowElement(linuxOS, 50, 50, 200, 150, "My Window");
+    const windowsWindow = new WindowElement(windowsOS, 50, 50, 200, 150, "My Window");
+    const macOSWindow = new WindowElement(macOS, 50, 50, 200, 150, "My Window");
+    const linuxWindow = new WindowElement(linuxOS, 50, 50, 200, 150, "My Window");
 
     clientCode(windowsButton);
     clientCode(macOSButton);
