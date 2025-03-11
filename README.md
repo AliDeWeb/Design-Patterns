@@ -86,3 +86,4 @@ These patterns focus on object creation mechanisms to increase flexibility and r
 | **Singleton**               | [📜 README](12_Singleton/README.md)               |
 | **Factory Method**          | [📜 README](13_Factory_Method/README.md)          |
 | **Abstract Factory**        | [📜 README](14_Abstract_Factory/README.md)        |
+| **Builder**                 | [📜 README](15_Builder/README.md)                 |
