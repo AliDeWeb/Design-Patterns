@@ -89,3 +89,4 @@ These patterns focus on object creation mechanisms to increase flexibility and r
 | **Builder**                 | [📜 README](15_Builder/README.md)                 |
 | **Composite**               | [📜 README](16_Composite/README.md)               |
 | **Adaptor**                 | [📜 README](17_Adaptor/README.md)                 |
+| **Decorator**               | [📜 README](18_Decorator/README.md)               |
